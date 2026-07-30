@@ -107,9 +107,3 @@ employee-performance-sales-dashboard/
 ## 👨‍💻 Author
 
 **Shivam Kawatra**
-
-B.Tech Computer Science & Engineering
-
----
-
-## ⭐ If you found this project useful, consider giving it a Star!
